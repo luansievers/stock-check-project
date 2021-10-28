@@ -1,0 +1,19 @@
+{
+  "email": "Email: ",
+  "enter_email": "Enter email",
+  "sign_up": "Sign Up",
+  "password": "Password: ",
+  "enter_password": "Enter Password",
+  "submit": "Submit",
+  "invalid_email_or_password": "You have entered an invalid email or password",
+  "invalid_credentials": "Invalid Credentials",
+  "stock_history": "Stock History",
+  "enter_stock_name": "Enter Stock Name",
+  "loading": "Loading",
+  "try_again": "Try again later or contact support.",
+  "we_have_a_problem": "We have a little problem",
+  "stock_not_valid": "The name of the stock you provided is not valid.",
+  "invalid_stock_name": "Invalid Stock Name",
+  "information_found": "We found your information",
+  "success": "Success"
+}
